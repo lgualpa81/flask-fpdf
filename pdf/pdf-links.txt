@@ -1,0 +1,5 @@
+https://www.blog.pythonlibrary.org/2018/06/05/creating-pdfs-with-pyfpdf-and-python/
+--fpdf esta deprecado usar fpdf2 en su lugar
+https://github.com/reingart/pyfpdf
+https://betterprogramming.pub/how-to-create-a-pdf-in-python-71fac9f7bcd6
+https://towardsdatascience.com/creating-pdf-files-with-python-ad3ccadfae0f
